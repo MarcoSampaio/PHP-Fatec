@@ -1,0 +1,5 @@
+1- crie um controller chamado UsuarioControler contendo o metodo Cadastro().
+
+2- crie um formulario (html) contido num arquivo chamado userform.php contendo um campo nome e um botao (submit).
+
+3- teste a aplicacao usando a rota correta. qual a rota vc usou?

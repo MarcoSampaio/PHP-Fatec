@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^/?teste/([a-zA-Z_]+)$ teste.php?param=$1 [L]
+
